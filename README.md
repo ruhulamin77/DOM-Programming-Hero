@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/hack-programming-hero">Hack Programming Hero - DOM Project Tutorial for Beginners</a></h3>
+  <h3 align="center"><a href="https://github.com/learnwithsumit/DOM-programming-hero">Hack Programming Hero - DOM Project Tutorial for Beginners</a></h3>
 
 Complete project tutorial showing different applications of Document Object Model (DOM) -
 
